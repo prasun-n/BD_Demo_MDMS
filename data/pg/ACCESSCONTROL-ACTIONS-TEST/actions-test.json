@@ -20283,6 +20283,17 @@
           "code": "null",
           "path": "",
           "navigationURL": ""
-      }         	
+      },
+     {
+      "id": 2985,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_create/ASSET.AssetCategory",
+      "displayName": "Create ASSET.AssetCategory",
+      "orderNumber": "1",
+      "enabled": "true",
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
