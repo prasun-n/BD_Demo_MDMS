@@ -1,0 +1,11 @@
+{
+  "tenantId": "pg",
+  "moduleName": "ws-services-masters",
+  "connectionType": [
+    {
+      "name": "Non Metered",
+      "code": "Non Metered",
+      "active": true
+    }
+  ]
+}

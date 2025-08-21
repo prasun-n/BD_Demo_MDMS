@@ -1,0 +1,61 @@
+{
+  "tenantId": "pg",
+  "moduleName": "common-masters",
+  "StaticData": [
+    {
+      "PT": {
+        "payViaWhatsApp": "",
+        "helpline": {
+          "contactOne": "0671-2368334",
+          "contactTwo": "9439885040"
+        },
+        "serviceCenter": "Panchayati Raj and Drinking Water Department, Odisha Govt., Secretariat Building, Bhubaneswar Pin- 751001, Odisha, India",
+        "viewMapLocation": "https://www.google.com/maps?ll=20.270865,85.830599&z=11&t=m&hl=en&gl=IN&mapclient=embed&cid=17128115767772418149"
+      },
+      "TL": {
+        "helpline": {
+          "contactOne": "0671-2368334",
+          "contactTwo": "9439885040"
+        },
+        "serviceCenter": "Panchayati Raj and Drinking Water Department, Odisha Govt., Secretariat Building, Bhubaneswar Pin- 751001, Odisha, India",
+        "viewMapLocation": "https://www.google.com/maps?ll=20.270865,85.830599&z=11&t=m&hl=en&gl=IN&mapclient=embed&cid=17128115767772418149"
+      },
+      "MCOLLECT": {
+        "helpline": {
+          "contactOne": "0671-2368334",
+          "contactTwo": "9439885040"
+        },
+        "serviceCenter": "Panchayati Raj and Drinking Water Department, Odisha Govt., Secretariat Building, Bhubaneswar Pin- 751001, Odisha, India",
+        "viewMapLocation": "https://www.google.com/maps?ll=20.270865,85.830599&z=11&t=m&hl=en&gl=IN&mapclient=embed&cid=17128115767772418149"
+      },
+      "PGR": {
+        "helpline": {
+          "contactOne": "0671-2368334",
+          "contactTwo": "9439885040"
+        },
+        "serviceCenter": "Panchayati Raj and Drinking Water Department, Odisha Govt., Secretariat Building, Bhubaneswar Pin- 751001, Odisha, India",
+        "viewMapLocation": "https://www.google.com/maps?ll=20.270865,85.830599&z=11&t=m&hl=en&gl=IN&mapclient=embed&cid=17128115767772418149"
+      },
+      "OBPS": {
+        "helpline": {
+          "contactOne": "0671-2368334",
+          "contactTwo": "9439885040"
+        },
+        "serviceCenter": "Panchayati Raj and Drinking Water Department, Odisha Govt., Secretariat Building, Bhubaneswar Pin- 751001, Odisha, India",
+        "viewMapLocation": "https://www.google.com/maps?ll=20.270865,85.830599&z=11&t=m&hl=en&gl=IN&mapclient=embed&cid=17128115767772418149",
+        "validity": "1"
+      },
+      "WS": {
+        "payViaWhatsApp": "https://api.whatsapp.com/send?phone=918744060444&text=mSeva",
+        "helpline": {
+          "contactOne": "0671-2368334",
+          "contactTwo": "9439885040"
+        },
+        "serviceCenter": "Panchayati Raj and Drinking Water Department, Odisha Govt., Secretariat Building, Bhubaneswar Pin- 751001, Odisha, India",
+        "viewMapLocation": "https://www.google.com/maps?ll=20.270865,85.830599&z=11&t=m&hl=en&gl=IN&mapclient=embed&cid=17128115767772418149",
+        "staticDataOne": "30",
+        "staticDataTwo": "25-30"
+      }
+    }
+  ]
+}
