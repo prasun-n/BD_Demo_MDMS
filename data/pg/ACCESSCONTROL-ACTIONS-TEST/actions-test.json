@@ -16125,7 +16125,7 @@
       "displayName": "Workbench",
       "orderNumber": 4,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "Workbench",
       "code": "null",
       "navigationURL": "/workbench-ui/employee",
