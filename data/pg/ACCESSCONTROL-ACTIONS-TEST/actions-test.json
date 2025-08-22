@@ -20294,6 +20294,28 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },
+     {
+      "id": 2986,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_create/Registry.Registry",
+      "displayName": "Create Registry.Registry",
+      "orderNumber": "1",
+      "enabled": "true",
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 2987,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_update/Registry.Registry",
+      "displayName": "Update Registry.Registry",
+      "orderNumber": "1",
+      "enabled": "true",
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
