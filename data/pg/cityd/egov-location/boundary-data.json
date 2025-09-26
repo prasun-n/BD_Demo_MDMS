@@ -10,8 +10,8 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "City D",
-        "localname": "City D",
+        "name": "MAHESANA",
+        "localname": "MAHESANA",
         "longitude": null,
         "latitude": null,
         "label": "City",
@@ -20,62 +20,312 @@
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Sisupathar",
-            "localname": "Sisupathar",
+            "name": "Satlasana",
+            "localname": "Satlasana",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL1"
+            "code": "TCM1",
+            "children": [
+              {
+                "id": "3",
+                "boundaryNum": 1,
+                "name": "Anand Bhankhari",
+                "localname": "Anand Bhankhari",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL1"
+              },
+              {
+                "id": "4",
+                "boundaryNum": 1,
+                "name": "Bajipura",
+                "localname": "Bajipura",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL2"
+              },
+              {
+                "id": "5",
+                "boundaryNum": 1,
+                "name": "Bedasma",
+                "localname": "Bedasma",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL3"
+              },
+              {
+                "id": "6",
+                "boundaryNum": 1,
+                "name": "Bhalu Moti",
+                "localname": "Bhalu Moti",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL4"
+              },
+              {
+                "id": "7",
+                "boundaryNum": 1,
+                "name": "Bhalu Nani",
+                "localname": "Bhalu Nani",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL5"
+              }
+            ]
           },
           {
-            "id": "3",
+            "id": "8",
             "boundaryNum": 1,
-            "name": "Chakamunda",
-            "localname": "Chakamunda",
+            "name": "Kheralu",
+            "localname": "Kheralu",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL2"
+            "code": "TCM2",
+            "children": [
+              {
+                "id": "9",
+                "boundaryNum": 1,
+                "name": "Amarpura",
+                "localname": "Amarpura",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL6"
+              },
+              {
+                "id": "10",
+                "boundaryNum": 1,
+                "name": "Ambavada",
+                "localname": "Ambavada",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL7"
+              },
+              {
+                "id": "11",
+                "boundaryNum": 1,
+                "name": "Arathi",
+                "localname": "Arathi",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL8"
+              },
+              {
+                "id": "12",
+                "boundaryNum": 1,
+                "name": "Balad",
+                "localname": "Balad",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL9"
+              },
+              {
+                "id": "13",
+                "boundaryNum": 1,
+                "name": "Chachariya",
+                "localname": "Chachariya",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL10"
+              }
+            ]
           },
           {
-            "id": "4",
+            "id": "14",
             "boundaryNum": 1,
-            "name": "Marudi",
-            "localname": "Marudi",
+            "name": "Unjha",
+            "localname": "Unjha",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL3"
+            "code": "TCM3",
+            "children": [
+              {
+                "id": "15",
+                "boundaryNum": 1,
+                "name": "Aithor",
+                "localname": "Aithor",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL11"
+              },
+              {
+                "id": "16",
+                "boundaryNum": 1,
+                "name": "Amudh",
+                "localname": "Amudh",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL12"
+              },
+              {
+                "id": "17",
+                "boundaryNum": 1,
+                "name": "Bhankhar",
+                "localname": "Bhankhar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL13"
+              },
+              {
+                "id": "18",
+                "boundaryNum": 1,
+                "name": "BHAVANIPURA",
+                "localname": "BHAVANIPURA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL14"
+              },
+              {
+                "id": "19",
+                "boundaryNum": 1,
+                "name": "Bhunav",
+                "localname": "Bhunav",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL15"
+              }
+            ]
           },
           {
-            "id": "5",
+            "id": "20",
             "boundaryNum": 1,
-            "name": "Barabhaya",
-            "localname": "Barabhaya",
+            "name": "Visnagar",
+            "localname": "Visnagar",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL4"
+            "code": "TCM4",
+            "children": [
+              {
+                "id": "21",
+                "boundaryNum": 1,
+                "name": "Bajipura",
+                "localname": "Bajipura",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL16"
+              },
+              {
+                "id": "22",
+                "boundaryNum": 1,
+                "name": "Bakarpur",
+                "localname": "Bakarpur",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL17"
+              },
+              {
+                "id": "23",
+                "boundaryNum": 1,
+                "name": "Basana",
+                "localname": "Basana",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL18"
+              },
+              {
+                "id": "24",
+                "boundaryNum": 1,
+                "name": "Becharpura",
+                "localname": "Becharpura",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL19"
+              },
+              {
+                "id": "25",
+                "boundaryNum": 1,
+                "name": "Bhalak",
+                "localname": "Bhalak",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL20"
+              }
+            ]
           },
           {
-            "id": "6",
+            "id": "26",
             "boundaryNum": 1,
-            "name": "Kusal",
-            "localname": "Kusal",
+            "name": "Bajpura",
+            "localname": "Bajpura",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL5"
-          },
-          {
-            "id": "7",
-            "boundaryNum": 1,
-            "name": "Balikiari",
-            "localname": "Balikiari",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL6"
+            "code": "TCM5",
+            "children": [
+              {
+                "id": "27",
+                "boundaryNum": 1,
+                "name": "Aspa",
+                "localname": "Aspa",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL21"
+              },
+              {
+                "id": "28",
+                "boundaryNum": 1,
+                "name": "Babipura",
+                "localname": "Babipura",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL22"
+              },
+              {
+                "id": "29",
+                "boundaryNum": 1,
+                "name": "Badarpur",
+                "localname": "Badarpur",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL23"
+              },
+              {
+                "id": "30",
+                "boundaryNum": 1,
+                "name": "Bajpura",
+                "localname": "Bajpura",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL24"
+              },
+              {
+                "id": "31",
+                "boundaryNum": 1,
+                "name": "Champa",
+                "localname": "Champa",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL25"
+              }
+            ]
           }
         ]
       }
@@ -88,8 +338,8 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "City D",
-        "localname": "City D",
+        "name": "MAHESANA",
+        "localname": "MAHESANA",
         "longitude": null,
         "latitude": null,
         "label": "City",
@@ -98,62 +348,312 @@
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Sisupathar",
-            "localname": "Sisupathar",
+            "name": "Satlasana",
+            "localname": "Satlasana",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL1"
+            "code": "TCM1",
+            "children": [
+              {
+                "id": "3",
+                "boundaryNum": 1,
+                "name": "Anand Bhankhari",
+                "localname": "Anand Bhankhari",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL1"
+              },
+              {
+                "id": "4",
+                "boundaryNum": 1,
+                "name": "Bajipura",
+                "localname": "Bajipura",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL2"
+              },
+              {
+                "id": "5",
+                "boundaryNum": 1,
+                "name": "Bedasma",
+                "localname": "Bedasma",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL3"
+              },
+              {
+                "id": "6",
+                "boundaryNum": 1,
+                "name": "Bhalu Moti",
+                "localname": "Bhalu Moti",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL4"
+              },
+              {
+                "id": "7",
+                "boundaryNum": 1,
+                "name": "Bhalu Nani",
+                "localname": "Bhalu Nani",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL5"
+              }
+            ]
           },
           {
-            "id": "3",
+            "id": "8",
             "boundaryNum": 1,
-            "name": "Chakamunda",
-            "localname": "Chakamunda",
+            "name": "Kheralu",
+            "localname": "Kheralu",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL2"
+            "code": "TCM2",
+            "children": [
+              {
+                "id": "9",
+                "boundaryNum": 1,
+                "name": "Amarpura",
+                "localname": "Amarpura",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL6"
+              },
+              {
+                "id": "10",
+                "boundaryNum": 1,
+                "name": "Ambavada",
+                "localname": "Ambavada",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL7"
+              },
+              {
+                "id": "11",
+                "boundaryNum": 1,
+                "name": "Arathi",
+                "localname": "Arathi",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL8"
+              },
+              {
+                "id": "12",
+                "boundaryNum": 1,
+                "name": "Balad",
+                "localname": "Balad",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL9"
+              },
+              {
+                "id": "13",
+                "boundaryNum": 1,
+                "name": "Chachariya",
+                "localname": "Chachariya",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL10"
+              }
+            ]
           },
           {
-            "id": "4",
+            "id": "14",
             "boundaryNum": 1,
-            "name": "Marudi",
-            "localname": "Marudi",
+            "name": "Unjha",
+            "localname": "Unjha",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL3"
+            "code": "TCM3",
+            "children": [
+              {
+                "id": "15",
+                "boundaryNum": 1,
+                "name": "Aithor",
+                "localname": "Aithor",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL11"
+              },
+              {
+                "id": "16",
+                "boundaryNum": 1,
+                "name": "Amudh",
+                "localname": "Amudh",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL12"
+              },
+              {
+                "id": "17",
+                "boundaryNum": 1,
+                "name": "Bhankhar",
+                "localname": "Bhankhar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL13"
+              },
+              {
+                "id": "18",
+                "boundaryNum": 1,
+                "name": "BHAVANIPURA",
+                "localname": "BHAVANIPURA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL14"
+              },
+              {
+                "id": "19",
+                "boundaryNum": 1,
+                "name": "Bhunav",
+                "localname": "Bhunav",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL15"
+              }
+            ]
           },
           {
-            "id": "5",
+            "id": "20",
             "boundaryNum": 1,
-            "name": "Barabhaya",
-            "localname": "Barabhaya",
+            "name": "Visnagar",
+            "localname": "Visnagar",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL4"
+            "code": "TCM4",
+            "children": [
+              {
+                "id": "21",
+                "boundaryNum": 1,
+                "name": "Bajipura",
+                "localname": "Bajipura",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL16"
+              },
+              {
+                "id": "22",
+                "boundaryNum": 1,
+                "name": "Bakarpur",
+                "localname": "Bakarpur",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL17"
+              },
+              {
+                "id": "23",
+                "boundaryNum": 1,
+                "name": "Basana",
+                "localname": "Basana",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL18"
+              },
+              {
+                "id": "24",
+                "boundaryNum": 1,
+                "name": "Becharpura",
+                "localname": "Becharpura",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL19"
+              },
+              {
+                "id": "25",
+                "boundaryNum": 1,
+                "name": "Bhalak",
+                "localname": "Bhalak",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL20"
+              }
+            ]
           },
           {
-            "id": "6",
+            "id": "26",
             "boundaryNum": 1,
-            "name": "Kusal",
-            "localname": "Kusal",
+            "name": "Bajpura",
+            "localname": "Bajpura",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL5"
-          },
-          {
-            "id": "7",
-            "boundaryNum": 1,
-            "name": "Balikiari",
-            "localname": "Balikiari",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL6"
+            "code": "TCM5",
+            "children": [
+              {
+                "id": "27",
+                "boundaryNum": 1,
+                "name": "Aspa",
+                "localname": "Aspa",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL21"
+              },
+              {
+                "id": "28",
+                "boundaryNum": 1,
+                "name": "Babipura",
+                "localname": "Babipura",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL22"
+              },
+              {
+                "id": "29",
+                "boundaryNum": 1,
+                "name": "Badarpur",
+                "localname": "Badarpur",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL23"
+              },
+              {
+                "id": "30",
+                "boundaryNum": 1,
+                "name": "Bajpura",
+                "localname": "Bajpura",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL24"
+              },
+              {
+                "id": "31",
+                "boundaryNum": 1,
+                "name": "Champa",
+                "localname": "Champa",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL25"
+              }
+            ]
           }
         ]
       }

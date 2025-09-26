@@ -10,8 +10,8 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "City A",
-        "localname": "City A",
+        "name": "KACHCHH",
+        "localname": "KACHCHH",
         "longitude": null,
         "latitude": null,
         "label": "City",
@@ -20,52 +20,312 @@
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Kaintara",
-            "localname": "Kaintara",
+            "name": "Lakhpat",
+            "localname": "Lakhpat",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL1"
+            "code": "TCM1",
+            "children": [
+              {
+                "id": "3",
+                "boundaryNum": 1,
+                "name": "Akari",
+                "localname": "Akari",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL1"
+              },
+              {
+                "id": "4",
+                "boundaryNum": 1,
+                "name": "Amiya",
+                "localname": "Amiya",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL2"
+              },
+              {
+                "id": "5",
+                "boundaryNum": 1,
+                "name": "Ashaldi (Suja Vandh)",
+                "localname": "Ashaldi (Suja Vandh)",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL3"
+              },
+              {
+                "id": "6",
+                "boundaryNum": 1,
+                "name": "Atdo",
+                "localname": "Atdo",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL4"
+              },
+              {
+                "id": "7",
+                "boundaryNum": 1,
+                "name": "Baiyava",
+                "localname": "Baiyava",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL5"
+              }
+            ]
           },
           {
-            "id": "3",
+            "id": "8",
             "boundaryNum": 1,
-            "name": "Panchama",
-            "localname": "Panchama",
+            "name": "Rapar",
+            "localname": "Rapar",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL2"
+            "code": "TCM2",
+            "children": [
+              {
+                "id": "9",
+                "boundaryNum": 1,
+                "name": "Adesar",
+                "localname": "Adesar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL6"
+              },
+              {
+                "id": "10",
+                "boundaryNum": 1,
+                "name": "Amrapar",
+                "localname": "Amrapar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL7"
+              },
+              {
+                "id": "11",
+                "boundaryNum": 1,
+                "name": "Anandpar",
+                "localname": "Anandpar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL8"
+              },
+              {
+                "id": "12",
+                "boundaryNum": 1,
+                "name": "Badalpar",
+                "localname": "Badalpar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL9"
+              },
+              {
+                "id": "13",
+                "boundaryNum": 1,
+                "name": "Badargadh",
+                "localname": "Badargadh",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL10"
+              }
+            ]
           },
           {
-            "id": "4",
+            "id": "14",
             "boundaryNum": 1,
-            "name": "Kamaladiha",
-            "localname": "Kamaladiha",
+            "name": "Bhachau",
+            "localname": "Bhachau",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL3"
+            "code": "TCM3",
+            "children": [
+              {
+                "id": "15",
+                "boundaryNum": 1,
+                "name": "Adhoi (Pasakayara)",
+                "localname": "Adhoi (Pasakayara)",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL11"
+              },
+              {
+                "id": "16",
+                "boundaryNum": 1,
+                "name": "Amaliyara",
+                "localname": "Amaliyara",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL12"
+              },
+              {
+                "id": "17",
+                "boundaryNum": 1,
+                "name": "Amarapar",
+                "localname": "Amarapar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL13"
+              },
+              {
+                "id": "18",
+                "boundaryNum": 1,
+                "name": "Amardi",
+                "localname": "Amardi",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL14"
+              },
+              {
+                "id": "19",
+                "boundaryNum": 1,
+                "name": "Bambhanka",
+                "localname": "Bambhanka",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL15"
+              }
+            ]
           },
           {
-            "id": "5",
+            "id": "20",
             "boundaryNum": 1,
-            "name": "Baliputa",
-            "localname": "Baliputa",
+            "name": "Anjar",
+            "localname": "Anjar",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL4"
+            "code": "TCM4",
+            "children": [
+              {
+                "id": "21",
+                "boundaryNum": 1,
+                "name": "Ajapar",
+                "localname": "Ajapar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL16"
+              },
+              {
+                "id": "22",
+                "boundaryNum": 1,
+                "name": "Ambapar",
+                "localname": "Ambapar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL17"
+              },
+              {
+                "id": "23",
+                "boundaryNum": 1,
+                "name": "Bhadroi",
+                "localname": "Bhadroi",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL18"
+              },
+              {
+                "id": "24",
+                "boundaryNum": 1,
+                "name": "Bhalot",
+                "localname": "Bhalot",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL19"
+              },
+              {
+                "id": "25",
+                "boundaryNum": 1,
+                "name": "Bhimasar",
+                "localname": "Bhimasar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL20"
+              }
+            ]
           },
           {
-            "id": "6",
+            "id": "26",
             "boundaryNum": 1,
-            "name": "Ranibhuin",
-            "localname": "Ranibhuin",
+            "name": "Bhuj",
+            "localname": "Bhuj",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL5"
+            "code": "TCM5",
+            "children": [
+              {
+                "id": "27",
+                "boundaryNum": 1,
+                "name": "Anandsar",
+                "localname": "Anandsar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL21"
+              },
+              {
+                "id": "28",
+                "boundaryNum": 1,
+                "name": "Andhau",
+                "localname": "Andhau",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL22"
+              },
+              {
+                "id": "29",
+                "boundaryNum": 1,
+                "name": "Baladiya",
+                "localname": "Baladiya",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL23"
+              },
+              {
+                "id": "30",
+                "boundaryNum": 1,
+                "name": "Bandhara Mota",
+                "localname": "Bandhara Mota",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL24"
+              },
+              {
+                "id": "31",
+                "boundaryNum": 1,
+                "name": "Bandhara Nana",
+                "localname": "Bandhara Nana",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL25"
+              }
+            ]
           }
         ]
       }
@@ -78,8 +338,8 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "City A",
-        "localname": "City A",
+        "name": "KACHCHH",
+        "localname": "KACHCHH",
         "longitude": null,
         "latitude": null,
         "label": "City",
@@ -88,52 +348,312 @@
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Kaintara",
-            "localname": "Kaintara",
+            "name": "Lakhpat",
+            "localname": "Lakhpat",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL1"
+            "code": "TCM1",
+            "children": [
+              {
+                "id": "3",
+                "boundaryNum": 1,
+                "name": "Akari",
+                "localname": "Akari",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL1"
+              },
+              {
+                "id": "4",
+                "boundaryNum": 1,
+                "name": "Amiya",
+                "localname": "Amiya",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL2"
+              },
+              {
+                "id": "5",
+                "boundaryNum": 1,
+                "name": "Ashaldi (Suja Vandh)",
+                "localname": "Ashaldi (Suja Vandh)",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL3"
+              },
+              {
+                "id": "6",
+                "boundaryNum": 1,
+                "name": "Atdo",
+                "localname": "Atdo",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL4"
+              },
+              {
+                "id": "7",
+                "boundaryNum": 1,
+                "name": "Baiyava",
+                "localname": "Baiyava",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL5"
+              }
+            ]
           },
           {
-            "id": "3",
+            "id": "8",
             "boundaryNum": 1,
-            "name": "Panchama",
-            "localname": "Panchama",
+            "name": "Rapar",
+            "localname": "Rapar",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL2"
+            "code": "TCM2",
+            "children": [
+              {
+                "id": "9",
+                "boundaryNum": 1,
+                "name": "Adesar",
+                "localname": "Adesar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL6"
+              },
+              {
+                "id": "10",
+                "boundaryNum": 1,
+                "name": "Amrapar",
+                "localname": "Amrapar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL7"
+              },
+              {
+                "id": "11",
+                "boundaryNum": 1,
+                "name": "Anandpar",
+                "localname": "Anandpar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL8"
+              },
+              {
+                "id": "12",
+                "boundaryNum": 1,
+                "name": "Badalpar",
+                "localname": "Badalpar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL9"
+              },
+              {
+                "id": "13",
+                "boundaryNum": 1,
+                "name": "Badargadh",
+                "localname": "Badargadh",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL10"
+              }
+            ]
           },
           {
-            "id": "4",
+            "id": "14",
             "boundaryNum": 1,
-            "name": "Kamaladiha",
-            "localname": "Kamaladiha",
+            "name": "Bhachau",
+            "localname": "Bhachau",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL3"
+            "code": "TCM3",
+            "children": [
+              {
+                "id": "15",
+                "boundaryNum": 1,
+                "name": "Adhoi (Pasakayara)",
+                "localname": "Adhoi (Pasakayara)",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL11"
+              },
+              {
+                "id": "16",
+                "boundaryNum": 1,
+                "name": "Amaliyara",
+                "localname": "Amaliyara",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL12"
+              },
+              {
+                "id": "17",
+                "boundaryNum": 1,
+                "name": "Amarapar",
+                "localname": "Amarapar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL13"
+              },
+              {
+                "id": "18",
+                "boundaryNum": 1,
+                "name": "Amardi",
+                "localname": "Amardi",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL14"
+              },
+              {
+                "id": "19",
+                "boundaryNum": 1,
+                "name": "Bambhanka",
+                "localname": "Bambhanka",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL15"
+              }
+            ]
           },
           {
-            "id": "5",
+            "id": "20",
             "boundaryNum": 1,
-            "name": "Baliputa",
-            "localname": "Baliputa",
+            "name": "Anjar",
+            "localname": "Anjar",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL4"
+            "code": "TCM4",
+            "children": [
+              {
+                "id": "21",
+                "boundaryNum": 1,
+                "name": "Ajapar",
+                "localname": "Ajapar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL16"
+              },
+              {
+                "id": "22",
+                "boundaryNum": 1,
+                "name": "Ambapar",
+                "localname": "Ambapar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL17"
+              },
+              {
+                "id": "23",
+                "boundaryNum": 1,
+                "name": "Bhadroi",
+                "localname": "Bhadroi",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL18"
+              },
+              {
+                "id": "24",
+                "boundaryNum": 1,
+                "name": "Bhalot",
+                "localname": "Bhalot",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL19"
+              },
+              {
+                "id": "25",
+                "boundaryNum": 1,
+                "name": "Bhimasar",
+                "localname": "Bhimasar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL20"
+              }
+            ]
           },
           {
-            "id": "6",
+            "id": "26",
             "boundaryNum": 1,
-            "name": "Ranibhuin",
-            "localname": "Ranibhuin",
+            "name": "Bhuj",
+            "localname": "Bhuj",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL5"
+            "code": "TCM5",
+            "children": [
+              {
+                "id": "27",
+                "boundaryNum": 1,
+                "name": "Anandsar",
+                "localname": "Anandsar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL21"
+              },
+              {
+                "id": "28",
+                "boundaryNum": 1,
+                "name": "Andhau",
+                "localname": "Andhau",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL22"
+              },
+              {
+                "id": "29",
+                "boundaryNum": 1,
+                "name": "Baladiya",
+                "localname": "Baladiya",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL23"
+              },
+              {
+                "id": "30",
+                "boundaryNum": 1,
+                "name": "Bandhara Mota",
+                "localname": "Bandhara Mota",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL24"
+              },
+              {
+                "id": "31",
+                "boundaryNum": 1,
+                "name": "Bandhara Nana",
+                "localname": "Bandhara Nana",
+                "longitude": null,
+                "latitude": null,
+                "label": "Area",
+                "code": "VIL25"
+              }
+            ]
           }
         ]
       }
