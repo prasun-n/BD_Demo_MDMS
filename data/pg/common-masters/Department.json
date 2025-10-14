@@ -191,6 +191,21 @@
       "name": "Tender Cell",
       "code": "DEPT_57",
       "active": true
+    },
+    {
+      "name": "Public Health Engineering",
+      "code": "DEPT_58",
+      "active": true
+    },
+    {
+      "name": "Revenue Department",
+      "code": "DEPT_59",
+      "active": true
+    },
+    {
+      "name": "Agriculture Department",
+      "code": "DEPT_60",
+      "active": true
     }
   ]
 }
