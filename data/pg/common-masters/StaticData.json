@@ -6,53 +6,55 @@
       "PT": {
         "payViaWhatsApp": "",
         "helpline": {
-          "contactOne": "0671-2368334",
-          "contactTwo": "9439885040"
+          "contactOne": "+91 7923250073",
+          "contactTwo": "+91 7923250074"
         },
-        "serviceCenter": "Panchayati Raj and Drinking Water Department, Odisha Govt., Secretariat Building, Bhubaneswar Pin- 751001, Odisha, India",
-        "viewMapLocation": "https://www.google.com/maps?ll=20.270865,85.830599&z=11&t=m&hl=en&gl=IN&mapclient=embed&cid=17128115767772418149"
+        "serviceCenter": "3rd floor,Swarnim Sankul–1, New Sachivalay, Sector 10, Gandhinagar, Gujarat",
+        "viewMapLocation": "https://www.google.com/maps?ll=23.220709,72.657663&z=16&t=m&hl=en&gl=IN&mapclient=embed&q=Swarnim+Sankul+1+Sector+10+Gandhinagar,+Gujarat+382010"
       },
       "TL": {
         "helpline": {
-          "contactOne": "0671-2368334",
-          "contactTwo": "9439885040"
+          "contactOne": "+91 7923250073",
+          "contactTwo": "+91 7923250074"
         },
-        "serviceCenter": "Panchayati Raj and Drinking Water Department, Odisha Govt., Secretariat Building, Bhubaneswar Pin- 751001, Odisha, India",
-        "viewMapLocation": "https://www.google.com/maps?ll=20.270865,85.830599&z=11&t=m&hl=en&gl=IN&mapclient=embed&cid=17128115767772418149"
+        "serviceCenter": "3rd floor,Swarnim Sankul–1, New Sachivalay, Sector 10, Gandhinagar, Gujarat",
+        "viewMapLocation": "https://www.google.com/maps?ll=23.220709,72.657663&z=16&t=m&hl=en&gl=IN&mapclient=embed&q=Swarnim+Sankul+1+Sector+10+Gandhinagar,+Gujarat+382010"
       },
       "MCOLLECT": {
         "helpline": {
-          "contactOne": "0671-2368334",
-          "contactTwo": "9439885040"
+          "contactOne": "+91 7923250073",
+          "contactTwo": "+91 7923250074"
         },
-        "serviceCenter": "Panchayati Raj and Drinking Water Department, Odisha Govt., Secretariat Building, Bhubaneswar Pin- 751001, Odisha, India",
-        "viewMapLocation": "https://www.google.com/maps?ll=20.270865,85.830599&z=11&t=m&hl=en&gl=IN&mapclient=embed&cid=17128115767772418149"
+        "serviceCenter": "3rd floor,Swarnim Sankul–1, New Sachivalay, Sector 10, Gandhinagar, Gujarat",
+        "viewMapLocation": "https://www.google.com/maps?ll=23.220709,72.657663&z=16&t=m&hl=en&gl=IN&mapclient=embed&q=Swarnim+Sankul+1+Sector+10+Gandhinagar,+Gujarat+382010"
       },
       "PGR": {
         "helpline": {
-          "contactOne": "0671-2368334",
-          "contactTwo": "9439885040"
+          "contactOne": "+91 7923250073",
+          "contactTwo": "+91 7923250074"
         },
-        "serviceCenter": "Panchayati Raj and Drinking Water Department, Odisha Govt., Secretariat Building, Bhubaneswar Pin- 751001, Odisha, India",
-        "viewMapLocation": "https://www.google.com/maps?ll=20.270865,85.830599&z=11&t=m&hl=en&gl=IN&mapclient=embed&cid=17128115767772418149"
+        "serviceCenter": "3rd floor,Swarnim Sankul–1, New Sachivalay, Sector 10, Gandhinagar, Gujarat",
+        "viewMapLocation": "https://www.google.com/maps?ll=23.220709,72.657663&z=16&t=m&hl=en&gl=IN&mapclient=embed&q=Swarnim+Sankul+1+Sector+10+Gandhinagar,+Gujarat+382010"
       },
       "OBPS": {
         "helpline": {
-          "contactOne": "0671-2368334",
-          "contactTwo": "9439885040"
-        },
-        "serviceCenter": "Panchayati Raj and Drinking Water Department, Odisha Govt., Secretariat Building, Bhubaneswar Pin- 751001, Odisha, India",
-        "viewMapLocation": "https://www.google.com/maps?ll=20.270865,85.830599&z=11&t=m&hl=en&gl=IN&mapclient=embed&cid=17128115767772418149",
-        "validity": "1"
+          "helpline": {
+            "contactOne": "+91 7923250073",
+            "contactTwo": "+91 7923250074"
+          },
+          "serviceCenter": "3rd floor,Swarnim Sankul–1, New Sachivalay, Sector 10, Gandhinagar, Gujarat",
+          "viewMapLocation": "https://www.google.com/maps?ll=23.220709,72.657663&z=16&t=m&hl=en&gl=IN&mapclient=embed&q=Swarnim+Sankul+1+Sector+10+Gandhinagar,+Gujarat+382010",
+          "validity": "1"
+        }
       },
       "WS": {
         "payViaWhatsApp": "https://api.whatsapp.com/send?phone=918744060444&text=mSeva",
         "helpline": {
-          "contactOne": "0671-2368334",
-          "contactTwo": "9439885040"
+          "contactOne": "+91 7923250073",
+          "contactTwo": "+91 7923250074"
         },
-        "serviceCenter": "Panchayati Raj and Drinking Water Department, Odisha Govt., Secretariat Building, Bhubaneswar Pin- 751001, Odisha, India",
-        "viewMapLocation": "https://www.google.com/maps?ll=20.270865,85.830599&z=11&t=m&hl=en&gl=IN&mapclient=embed&cid=17128115767772418149",
+        "serviceCenter": "3rd floor,Swarnim Sankul–1, New Sachivalay, Sector 10, Gandhinagar, Gujarat",
+        "viewMapLocation": "https://www.google.com/maps?ll=23.220709,72.657663&z=16&t=m&hl=en&gl=IN&mapclient=embed&q=Swarnim+Sankul+1+Sector+10+Gandhinagar,+Gujarat+382010",
         "staticDataOne": "30",
         "staticDataTwo": "25-30"
       }
