@@ -4,7 +4,7 @@
   "tenants": [
     {
       "code": "pg.citya",
-      "name": "Kamaladiha",
+      "name": "Amabala",
       "description": "City A",
       "pincode": [
         143001,
@@ -27,12 +27,12 @@
       "city": {
         "name": "City A",
         "localName": null,
-        "districtCode": "CUTTACK",
-        "districtName": "Cuttack",
+        "districtCode": "AMBALA",
+        "districtName": "Ambala",
         "districtTenantCode": "pg.citya",
-        "blockname": "Narasinghpur",
+        "blockname": "",
         "regionName": null,
-        "ulbGrade": "Gram Panchayat",
+        "ulbGrade": "Municipal Corporation",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
         "shapeFileLocation": null,
@@ -40,7 +40,7 @@
         "code": "1013",
         "ddrName": "DDR A"
       },
-      "address": "City A Gram Panchayat",
+      "address": "City A Municipal Corporation",
       "contactNumber": "001-2345876"
     },
     {
