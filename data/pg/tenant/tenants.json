@@ -4,8 +4,8 @@
   "tenants": [
     {
       "code": "pg.citya",
-      "name": "Kamaladiha",
-      "description": "City A",
+      "name": "KACHCHH",
+      "description": "KACHCHH",
       "pincode": [
         143001,
         143002,
@@ -25,7 +25,7 @@
       },
       "isPopular": true,
       "city": {
-        "name": "City A",
+        "name": "KACHCHH",
         "localName": null,
         "districtCode": "CUTTACK",
         "districtName": "Cuttack",
@@ -40,12 +40,12 @@
         "code": "1013",
         "ddrName": "DDR A"
       },
-      "address": "City A Gram Panchayat",
+      "address": "KACHCHH District Authority",
       "contactNumber": "001-2345876"
     },
     {
       "code": "pg.cityb",
-      "name": "Regeda",
+      "name": "BANASKANTHA",
       "description": null,
       "pincode": [
         143006,
@@ -67,7 +67,7 @@
       },
       "isPopular": true,
       "city": {
-        "name": "City B",
+        "name": "BANASKANTHA",
         "localName": null,
         "districtCode": "CUTTACK",
         "districtName": "Cuttack",
@@ -82,13 +82,13 @@
         "code": "107",
         "ddrName": "DDR B"
       },
-      "address": "City B Gram Panchayat Address",
+      "address": "BANASKANTHA District Authority",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
     {
       "code": "pg.cityc",
-      "name": "Basantapur",
+      "name": "PATAN",
       "description": null,
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
@@ -102,7 +102,7 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "City C",
+        "name": "PATAN",
         "localName": null,
         "districtCode": "CUTTACK",
         "districtName": "Cuttack",
@@ -117,13 +117,13 @@
         "code": "108",
         "ddrName": "DDR C"
       },
-      "address": "City C Gram Panchayat Address",
+      "address": "PATAN District Authority",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
     {
       "code": "pg.cityd",
-      "name": "Chakamunda",
+      "name": "MAHESANA",
       "description": null,
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
@@ -137,7 +137,7 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "City D",
+        "name": "MAHESANA",
         "localName": null,
         "districtCode": "CUTTACK",
         "districtName": "Cuttack",
@@ -152,13 +152,13 @@
         "code": "109",
         "ddrName": "DDR D"
       },
-      "address": "City D Gram Panchayat Address",
+      "address": "MAHESANA District Authority",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
     {
       "code": "pg.citye",
-      "name": "Sardhapur",
+      "name": "SABARKANTHA",
       "description": null,
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
@@ -172,7 +172,7 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "City E",
+        "name": "SABARKANTHA",
         "localName": null,
         "districtCode": "CUTTACK",
         "districtName": "Cuttack",
@@ -187,7 +187,7 @@
         "code": "110",
         "ddrName": "DDR E"
       },
-      "address": "City E Gram Panchayat Address",
+      "address": "SABARKANTHA District Authority",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
