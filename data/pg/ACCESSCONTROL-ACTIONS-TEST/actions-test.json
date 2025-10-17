@@ -13915,7 +13915,7 @@
       "displayName": "View applications by Citizen",
       "orderNumber": 1,
       "parentModule": "OBPS",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "",
       "path": "",
