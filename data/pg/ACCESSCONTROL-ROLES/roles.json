@@ -831,6 +831,16 @@
       "code": "PQM_CRONJOB_SCHEDULER",
       "name": "PQM CRONJOB SCHEDULER",
       "description": "Pqm Cronjob Scheduler"
+    },
+	   {
+      "code": "BPA_MAKER",
+      "name": "BPA Services verifier",
+      "description": "BPA Services workflow document & field inspection verifier"
+    },
+	   {
+      "code": "BPA_CHECKER",
+      "name": "BPA Services verifier",
+      "description": "BPA Services workflow document & field inspection verifier"
     }
   ]
 }
