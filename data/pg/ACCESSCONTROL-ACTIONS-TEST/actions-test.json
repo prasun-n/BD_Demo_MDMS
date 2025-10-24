@@ -20283,6 +20283,24 @@
           "code": "null",
           "path": "",
           "navigationURL": ""
-      }         	
+      },
+     {
+      "id": 2985,
+      "name": "BPA_CITIZEN_HOME_VIEW_PERMIT_APPLYL",
+      "url": "digit-ui-card",
+      "displayName": "View applications by Citizen",
+      "orderNumber": 1,
+      "parentModule": "OBPS",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/upyog-ui/citizen/obps/bpa/building_plan_scrutiny/new_construction/docs-required",
+      "leftIcon": "OBPSIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/obps-home"
+    }
   ]
 }
