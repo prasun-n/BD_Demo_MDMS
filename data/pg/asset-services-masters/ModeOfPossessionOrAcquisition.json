@@ -3,64 +3,74 @@
   "moduleName": "ASSET",
   "ModeOfPossessionOrAcquisition": [
     {
-      "name": "modeOfPossessionOrAcquisition",
-      "i18nKey": "Purchase",
-      "code": "AST_PURCHASE",
-      "value": "Purchase"
-    },
-    {
-      "name": "modeOfPossessionOrAcquisition",
-      "i18nKey": "Donated",
       "code": "AST_DONATED",
-      "value": "Donated "
+      "name": "modeOfPossessionOrAcquisition",
+      "value": "Donated",
+      "i18nKey": "Donated",
+      "active": true
     },
     {
-      "name": "modeOfPossessionOrAcquisition",
-      "i18nKey": "Inherited",
       "code": "AST_INHERITED",
-      "value": "Inherited "
+      "name": "modeOfPossessionOrAcquisition",
+      "value": "Inherited",
+      "i18nKey": "Inherited",
+      "active": true
     },
     {
-      "name": "modeOfPossessionOrAcquisition",
-      "i18nKey": "Leased",
       "code": "AST_LEASED",
-      "value": "Leased "
+      "name": "modeOfPossessionOrAcquisition",
+      "value": "Leased",
+      "i18nKey": "Leased",
+      "active": true
     },
     {
+      "code": "AST_PURCHASE",
       "name": "modeOfPossessionOrAcquisition",
-      "i18nKey": "Gifted",
+      "value": "Purchase",
+      "i18nKey": "Purchase",
+      "active": true
+    },
+    {
       "code": "AST_GIFTED",
-      "value": "Gifted "
+      "name": "modeOfPossessionOrAcquisition",
+      "value": "Gifted",
+      "i18nKey": "Gifted",
+      "active": true
     },
     {
-      "name": "modeOfPossessionOrAcquisition",
-      "i18nKey": "Constructed",
       "code": "AST_CONSTRUCTED",
-      "value": "Constructed "
+      "name": "modeOfPossessionOrAcquisition",
+      "value": "Constructed",
+      "i18nKey": "Constructed",
+      "active": true
     },
     {
+      "code": "AST_ACQUIRED_THROUGH_EXCHANGE",
       "name": "modeOfPossessionOrAcquisition",
+      "value": "Acquired through exchange",
       "i18nKey": "Acquired through exchange",
-      "code": "AST_ACQUIRED THROUGH EXCHANGE",
-      "value": "Acquired through exchange "
+      "active": true
     },
     {
-      "name": "modeOfPossessionOrAcquisition",
-      "i18nKey": "Transferred",
       "code": "AST_TRANSFERRED",
-      "value": "Transferred"
+      "name": "modeOfPossessionOrAcquisition",
+      "value": "Transferred",
+      "i18nKey": "Transferred",
+      "active": true
     },
     {
-      "name": "modeOfPossessionOrAcquisition",
-      "i18nKey": "Government grant",
       "code": "AST_GOVERNMENT_GRANT",
-      "value": "Government grant"
+      "name": "modeOfPossessionOrAcquisition",
+      "value": "Government grant",
+      "i18nKey": "Government grant",
+      "active": true
     },
     {
-      "name": "modeOfPossessionOrAcquisition",
-      "i18nKey": "Other",
       "code": "AST_OTHER",
-      "value": "Other"
+      "name": "modeOfPossessionOrAcquisition",
+      "value": "Other",
+      "i18nKey": "Other",
+      "active": true
     }
   ]
 }
