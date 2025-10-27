@@ -112,15 +112,6 @@
         },
         {
           "code": "pg.citye"
-        },
-        {
-          "code": "pg.mohali"
-        },
-        {
-          "code": "pg.dharamshala"
-        },
-        {
-          "code": "pg.shimla"
         }
       ]
     },
@@ -435,15 +426,6 @@
         },
         {
           "code": "pg.citye"
-        },
-        {
-          "code": "pg.mohali"
-        },
-        {
-          "code": "pg.dharamshala"
-        },
-        {
-          "code": "pg.shimla"
         }
       ]
     },
@@ -656,16 +638,7 @@
         },
         {
           "code": "pg.citye"
-        },
-        {
-          "code": "pg.mohali"
-        },
-        {
-          "code": "pg.dharamshala"
-        },
-        {
-          "code": "pg.shimla"
-        } 
+        }
       ]
     },
     {
@@ -689,15 +662,6 @@
         },
         {
           "code": "pg.citye"
-        },
-        {
-          "code": "pg.mohali"
-        },
-        {
-          "code": "pg.dharamshala"
-        },
-        {
-          "code": "pg.shimla"
         } 
       ]
     },
@@ -789,12 +753,6 @@
         },
         {
           "code": "pg.citye"
-        },
-        {
-          "code": "pg.patiala"
-        },
-        {
-          "code": "pg.kurali"
         }
       ]
     },
@@ -818,15 +776,6 @@
         },
         {
           "code": "pg.citye"
-        }, 
-        {
-          "code": "pg.mohali"
-        },
-        {
-          "code": "pg.dharamshala"
-        },
-        {
-          "code": "pg.shimla"
         }
       ]
     },
@@ -850,15 +799,6 @@
         },
         {
           "code": "pg.citye"
-        },
-        {
-          "code": "pg.mohali"
-        },
-        {
-          "code": "pg.dharamshala"
-        },
-        {
-          "code": "pg.shimla"
         }
       ]
     } ,
@@ -929,15 +869,6 @@
         },
         {
           "code": "pg.citye"
-        },
-        {
-          "code": "pg.mohali"
-        },
-        {
-          "code": "pg.dharamshala"
-        },
-        {
-          "code": "pg.shimla"
         } 
       ]
     },
@@ -952,15 +883,6 @@
         },
         {
           "code": "pg.cityb"
-        },
-        {
-          "code": "pg.mohali"
-        },
-        {
-          "code": "pg.dharamshala"
-        },
-        {
-          "code": "pg.shimla"
         } 
       ]
     } ,
@@ -984,15 +906,6 @@
         },
         {
           "code": "pg.citye"
-        },
-        {
-          "code": "pg.mohali"
-        },
-        {
-          "code": "pg.dharamshala"
-        },
-        {
-          "code": "pg.shimla"
         } 
       ]
     },
@@ -1016,15 +929,6 @@
         },
         {
           "code": "pg.citye"
-        },
-        {
-          "code": "pg.mohali"
-        },
-        {
-          "code": "pg.dharamshala"
-        },
-        {
-          "code": "pg.shimla"
         } 
       ]
     },
@@ -1048,15 +952,6 @@
         },
         {
           "code": "pg.citye"
-        },
-        {
-          "code": "pg.mohali"
-        },
-        {
-          "code": "pg.dharamshala"
-        },
-        {
-          "code": "pg.shimla"
         } 
       ]
     }  
