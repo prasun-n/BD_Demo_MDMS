@@ -7,7 +7,8 @@
                 "payViaWhatsApp": "https://api.whatsapp.com/send?phone=918744060444&text=mSeva",
                 "helpline": 
                 { 
-                  "contactOne": "+91 (0135) 2741541"
+                  "contactOne": "+91 (0135) 2741541",
+                  "contactTwo": "+91 (0135) 2741542"
                 },
                 "serviceCenter": "Urban Development Directorate, 31/62 Rajpur Road, Dehradun, Uttarakhand - 248001",
                 "staticDataOne": "7-10",
@@ -18,7 +19,8 @@
             "TL" : {
                 "helpline": 
                 { 
-                  "contactOne": "+91 (0135) 2741541"
+                  "contactOne": "+91 (0135) 2741541",
+                  "contactTwo": "+91 (0135) 2741542"
                 },
                 "serviceCenter": "Urban Development Directorate, 31/62 Rajpur Road, Dehradun, Uttarakhand - 248001",
                 "viewMapLocation": "https://www.google.com/maps/place/Urban+Development+Directorate,+Dehradun/@30.3341991,78.0513319,17z/data=!3m1!4b1!4m6!3m5!1s0x390929cff8cf8887:0x280e7a22ce3dca16!8m2!3d30.3341945!4d78.0539068!16s%2Fg%2F11c6zxnm22?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D"
@@ -27,7 +29,8 @@
             "MCOLLECT" : {
                 "helpline": 
                 { 
-                  "contactOne": "+91 (0135) 2741541"
+                  "contactOne": "+91 (0135) 2741541",
+                  "contactTwo": "+91 (0135) 2741542"
                 },
                 "serviceCenter": "Urban Development Directorate, 31/62 Rajpur Road, Dehradun, Uttarakhand - 248001",
                 "viewMapLocation": "https://www.google.com/maps/place/Urban+Development+Directorate,+Dehradun/@30.3341991,78.0513319,17z/data=!3m1!4b1!4m6!3m5!1s0x390929cff8cf8887:0x280e7a22ce3dca16!8m2!3d30.3341945!4d78.0539068!16s%2Fg%2F11c6zxnm22?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D"
@@ -35,7 +38,8 @@
             "PGR" : {
                 "helpline": 
                 { 
-                  "contactOne": "+91 (0135) 2741541"
+                  "contactOne": "+91 (0135) 2741541",
+                  "contactTwo": "+91 (0135) 2741542"
                 },
               "serviceCenter": "Urban Development Directorate, 31/62 Rajpur Road, Dehradun, Uttarakhand - 248001",
               "viewMapLocation": "https://www.google.com/maps/place/Urban+Development+Directorate,+Dehradun/@30.3341991,78.0513319,17z/data=!3m1!4b1!4m6!3m5!1s0x390929cff8cf8887:0x280e7a22ce3dca16!8m2!3d30.3341945!4d78.0539068!16s%2Fg%2F11c6zxnm22?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D"
@@ -43,7 +47,8 @@
           "OBPS" : {
                 "helpline": 
                 { 
-                  "contactOne": "+91 (0135) 2741541"
+                  "contactOne": "+91 (0135) 2741541",
+                  "contactTwo": "+91 (0135) 2741542"
                 },
               "serviceCenter": "Urban Development Directorate, 31/62 Rajpur Road, Dehradun, Uttarakhand - 248001",
               "validity": "1",
@@ -53,7 +58,8 @@
           "payViaWhatsApp": "https://api.whatsapp.com/send?phone=918744060444&text=mSeva",
                 "helpline": 
                 { 
-                  "contactOne": "+91 (0135) 2741541"
+                  "contactOne": "+91 (0135) 2741541",
+                  "contactTwo": "+91 (0135) 2741542"
                 },
               "serviceCenter": "Urban Development Directorate, 31/62 Rajpur Road, Dehradun, Uttarakhand - 248001",
               "staticDataOne": "30",
