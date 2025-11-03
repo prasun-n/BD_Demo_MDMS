@@ -1,0 +1,28 @@
+
+{
+  "tenantId": "pg.citya",
+  "moduleName": "localities",
+  "LocalityData": [
+    {
+      "code":"VIL1",
+      "isCLUApplicable": true
+    },
+        {
+      "code":"VIL2",
+      "isCLUApplicable": true
+    },
+        {
+      "code":"VIL3",
+      "isCLUApplicable": false
+    },
+        {
+      "code":"VIL4",
+      "isCLUApplicable": false
+    },
+        {
+      "code":"VIL5",
+      "isCLUApplicable": false
+    }
+    
+  ]
+}
