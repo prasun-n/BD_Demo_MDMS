@@ -26,7 +26,8 @@
             "latitude": null,
             "label": "Locality",
             "code": "VIL1",
-            "core": "true"
+            "core": "true",
+            "pincode": [143001,143002]
           },
           {
             "id": "3",
