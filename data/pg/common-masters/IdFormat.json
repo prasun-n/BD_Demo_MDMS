@@ -762,6 +762,15 @@
             "format": "SV/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "sv-services.receipt.id"
         },
+    
+        {
+            "format": "SV/MONTHLY/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "sv-services.monthly.receipt.id"
+        },
+        {
+            "format": "SV/QUATERLY/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "sv-services.quaterly.receipt.id"
+        },
         {
             "format": "ADV/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "adv-services.receipt.id"
@@ -779,12 +788,24 @@
             "idname": "individual.id"
         },
         {
-            "format": "WQS/[fy:yyyy-yy]/[eg_wq_application_id_seq]",
-            "idname": "waterquality.sample.application.id"
+            "format": "WT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "request-service.water_tanker.receipt.id"
+        },
+	    {
+            "format": "MT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "request-service.mobile_toilet.receipt.id"
         },
         {
-            "format": "WQT/[fy:yyyy-yy]/[eg_wq_application_id_seq]",
-            "idname": "waterquality.test.application.id"
+            "format": "CND/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "cnd-service.receipt.id"
+        },
+        {
+            "format": "TP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "request-service.tree_pruning.receipt.id"
+        },
+        {
+            "format": "EST-[CITY.CODE]-[seq_estate_management_asset_id]",
+            "idname": "estate.management.asset.id"
         }
     ]
 }
