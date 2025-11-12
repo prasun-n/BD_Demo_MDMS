@@ -101,6 +101,7 @@
         "Mon - Fri": "9.00 AM - 6.00 PM",
         "Sat": "9.00 AM - 12.00 PM"
       },
+      "isPopular": true,
       "city": {
         "name": "City C",
         "localName": null,
