@@ -15,7 +15,7 @@
       ],
       "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
       "imageId": null,
-      "domainUrl": "https://www.upyog.niua.org",
+      "domainUrl": "https://assam.gov.in",
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
@@ -27,8 +27,8 @@
       "city": {
         "name": "Guwahati",
         "localName": null,
-        "districtCode": "AMBALA",
-        "districtName": "Ambala",
+        "districtCode": "Assam",
+        "districtName": "Assam",
         "districtTenantCode": "pg.citya",
         "blockname": "",
         "regionName": null,
@@ -40,7 +40,7 @@
         "code": "1013",
         "ddrName": "DDR A"
       },
-      "address": "City A Municipal Corporation",
+      "address": "Guwahati Municipal Corporation",
       "contactNumber": "001-2345876"
     },
     {
