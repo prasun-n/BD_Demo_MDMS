@@ -5,7 +5,7 @@
     {
       "code": "pg.citya",
       "name": "Guwahati",
-      "description": "City A",
+      "description": "Guwahati",
       "pincode": [
         143001,
         143002,
@@ -19,13 +19,13 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "citya@gmail.com",
+      "emailId": "guwahati.corporation@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "isPopular": true,
       "city": {
-        "name": "City A",
+        "name": "Guwahati",
         "localName": null,
         "districtCode": "AMBALA",
         "districtName": "Ambala",
