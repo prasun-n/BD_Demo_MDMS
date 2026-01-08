@@ -4,8 +4,8 @@
   "tenants": [
     {
       "code": "pg.citya",
-      "name": "Guwahati",
-      "description": "Guwahati",
+      "name": "Jammu",
+      "description": "Jammu",
       "pincode": [
         143001,
         143002,
@@ -15,20 +15,20 @@
       ],
       "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
       "imageId": null,
-      "domainUrl": "https://assam.gov.in",
+      "domainUrl": "https://home.jk.gov.in",
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "guwahati.corporation@gmail.com",
+      "emailId": "Jammu.corporation@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "isPopular": true,
       "city": {
-        "name": "Guwahati",
+        "name": "Jammu",
         "localName": null,
-        "districtCode": "Assam",
-        "districtName": "Assam",
+        "districtCode": "Jammu",
+        "districtName": "Jammu",
         "districtTenantCode": "pg.citya",
         "blockname": "",
         "regionName": null,
@@ -40,7 +40,7 @@
         "code": "1013",
         "ddrName": "DDR A"
       },
-      "address": "Guwahati Municipal Corporation",
+      "address": "Jammu Municipal Corporation",
       "contactNumber": "001-2345876"
     },
     {
