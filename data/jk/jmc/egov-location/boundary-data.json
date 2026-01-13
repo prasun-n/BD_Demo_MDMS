@@ -1,0 +1,153 @@
+{
+  "tenantId": "jk.jmc",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "City A",
+        "localname": "City A",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "jk.jmc",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Kaintara",
+            "localname": "Kaintara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1",
+            "core": "true",
+            "pincode": [143001,143002]
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Panchama",
+            "localname": "Panchama",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2",
+            "core": "true"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Kamaladiha",
+            "localname": "Kamaladiha",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3",
+            "core": "false"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Baliputa",
+            "localname": "Baliputa",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4",
+            "core": "false"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Ranibhuin",
+            "localname": "Ranibhuin",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5",
+            "core": "false"
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "City A",
+        "localname": "City A",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "jk.jmc",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Kaintara",
+            "localname": "Kaintara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1",
+            "core": "true"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Panchama",
+            "localname": "Panchama",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2",
+            "core": "true"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Kamaladiha",
+            "localname": "Kamaladiha",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3",
+            "core": "false"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Baliputa",
+            "localname": "Baliputa",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4",
+            "core": "false"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Ranibhuin",
+            "localname": "Ranibhuin",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5",
+            "core": "false"
+          }
+        ]
+      }
+    }
+  ]
+}

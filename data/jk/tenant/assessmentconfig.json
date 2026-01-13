@@ -1,0 +1,18 @@
+{
+  "tenantId": "jk",
+  "moduleName": "tenant",
+  "assessmentconfig": [
+    {
+      "tenant": "jk.smc",
+      "enabled": true,
+      "financialyear": "2021-22",
+      "isRented": true
+    },
+     {
+      "tenant": "jk.jmc",
+      "enabled": true,
+      "financialyear": "2021-22",
+      "isRented": true
+    }
+  ]
+}

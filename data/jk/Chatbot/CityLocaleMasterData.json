@@ -1,0 +1,27 @@
+{
+    "tenantId": "jk",
+    "moduleName": "Chatbot",
+    "CityLocaleMasterData": [
+        {
+            "cityName": "Jammu Municipal Corporation",
+            "locale": "in_en",
+            "tenantId": "jk.jmc"
+        },
+        {
+            "cityName": "शहर अ",
+            "locale": "in_hi",
+            "tenantId": "jk.jmc"
+        },
+        {
+            "cityName": "Srinagar Municipal Corporation",
+            "locale": "in_en",
+            "tenantId": "jk.smc"
+        },
+        {
+            "cityName": "शहर ब",
+            "locale": "in_hi",
+            "tenantId": "jk.smc"
+        }
+    
+    ]
+}

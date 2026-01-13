@@ -1,0 +1,61 @@
+{
+  "tenantId": "jk",
+  "moduleName": "common-masters",
+  "StaticData": [
+    {
+      "PT": {
+        "payViaWhatsApp": "",
+        "helpline": {
+          "contactOne": "0191-2470050",
+          "contactTwo": "0191-2470051"
+        },
+        "serviceCenter": "Housing and Urban Development Department, Jammu & Kashmir.",
+        "viewMapLocation": "https://www.google.com/maps/place/Building+Development+Center+Srinagar+(BDC)+under+Housing+and+Urban+Development+Board+of+J%26K/@34.0845119,56.3186646,5z/data=!4m22!1m15!4m14!1m6!1m2!1s0x375a5971ee85ce6d:0x1bea5720d41fafd8!2s3rd+Floor,+Guwahati+Metropolitan+Development+Authority,+STATFED+Building,+GMC+Hospital+Road,+Bhangagarh,+Guwahati,+Assam!2m2!1d91.7677045!2d26.1616686!1m6!1m2!1s0x38e19b57c986d965:0x2634574d73fbf032!2sBuilding+Development+Center+Srinagar+(BDC)+under+Housing+and+Urban+Development+Board+of+J%26K,+3QMF%2BJQM,+Bemina,+Srinagar,+Jammu+and+Kashmir+190018!2m2!1d74.7743923!2d34.0840801!3m5!1s0x38e19b57c986d965:0x2634574d73fbf032!8m2!3d34.0840838!4d74.7744181!16s%2Fg%2F11n6h0547h?entry=ttu&g_ep=EgoyMDI2MDEwNC4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D"
+      },
+      "TL": {
+   "helpline": {
+          "contactOne": "0191-2470050",
+          "contactTwo": "0191-2470051"
+        },
+        "serviceCenter": "Housing and Urban Development Department, Jammu & Kashmir.",
+        "viewMapLocation": "https://www.google.com/maps/place/Building+Development+Center+Srinagar+(BDC)+under+Housing+and+Urban+Development+Board+of+J%26K/@34.0845119,56.3186646,5z/data=!4m22!1m15!4m14!1m6!1m2!1s0x375a5971ee85ce6d:0x1bea5720d41fafd8!2s3rd+Floor,+Guwahati+Metropolitan+Development+Authority,+STATFED+Building,+GMC+Hospital+Road,+Bhangagarh,+Guwahati,+Assam!2m2!1d91.7677045!2d26.1616686!1m6!1m2!1s0x38e19b57c986d965:0x2634574d73fbf032!2sBuilding+Development+Center+Srinagar+(BDC)+under+Housing+and+Urban+Development+Board+of+J%26K,+3QMF%2BJQM,+Bemina,+Srinagar,+Jammu+and+Kashmir+190018!2m2!1d74.7743923!2d34.0840801!3m5!1s0x38e19b57c986d965:0x2634574d73fbf032!8m2!3d34.0840838!4d74.7744181!16s%2Fg%2F11n6h0547h?entry=ttu&g_ep=EgoyMDI2MDEwNC4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D"
+      },
+      "MCOLLECT": {
+       "helpline": {
+          "contactOne": "0191-2470050",
+          "contactTwo": "0191-2470051"
+        },
+        "serviceCenter": "Housing and Urban Development Department, Jammu & Kashmir.",
+        "viewMapLocation": "https://www.google.com/maps/place/Building+Development+Center+Srinagar+(BDC)+under+Housing+and+Urban+Development+Board+of+J%26K/@34.0845119,56.3186646,5z/data=!4m22!1m15!4m14!1m6!1m2!1s0x375a5971ee85ce6d:0x1bea5720d41fafd8!2s3rd+Floor,+Guwahati+Metropolitan+Development+Authority,+STATFED+Building,+GMC+Hospital+Road,+Bhangagarh,+Guwahati,+Assam!2m2!1d91.7677045!2d26.1616686!1m6!1m2!1s0x38e19b57c986d965:0x2634574d73fbf032!2sBuilding+Development+Center+Srinagar+(BDC)+under+Housing+and+Urban+Development+Board+of+J%26K,+3QMF%2BJQM,+Bemina,+Srinagar,+Jammu+and+Kashmir+190018!2m2!1d74.7743923!2d34.0840801!3m5!1s0x38e19b57c986d965:0x2634574d73fbf032!8m2!3d34.0840838!4d74.7744181!16s%2Fg%2F11n6h0547h?entry=ttu&g_ep=EgoyMDI2MDEwNC4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D"
+       },
+      "PGR": {
+       "helpline": {
+          "contactOne": "0191-2470050",
+          "contactTwo": "0191-2470051"
+        },
+        "serviceCenter": "Housing and Urban Development Department, Jammu & Kashmir.",
+        "viewMapLocation": "https://www.google.com/maps/place/Building+Development+Center+Srinagar+(BDC)+under+Housing+and+Urban+Development+Board+of+J%26K/@34.0845119,56.3186646,5z/data=!4m22!1m15!4m14!1m6!1m2!1s0x375a5971ee85ce6d:0x1bea5720d41fafd8!2s3rd+Floor,+Guwahati+Metropolitan+Development+Authority,+STATFED+Building,+GMC+Hospital+Road,+Bhangagarh,+Guwahati,+Assam!2m2!1d91.7677045!2d26.1616686!1m6!1m2!1s0x38e19b57c986d965:0x2634574d73fbf032!2sBuilding+Development+Center+Srinagar+(BDC)+under+Housing+and+Urban+Development+Board+of+J%26K,+3QMF%2BJQM,+Bemina,+Srinagar,+Jammu+and+Kashmir+190018!2m2!1d74.7743923!2d34.0840801!3m5!1s0x38e19b57c986d965:0x2634574d73fbf032!8m2!3d34.0840838!4d74.7744181!16s%2Fg%2F11n6h0547h?entry=ttu&g_ep=EgoyMDI2MDEwNC4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D"
+      },
+      "OBPS": {
+       "helpline": {
+          "contactOne": "0191-2470050",
+          "contactTwo": "0191-2470051"
+        },
+        "serviceCenter": "Housing and Urban Development Department, Jammu & Kashmir.",
+        "viewMapLocation": "https://www.google.com/maps/place/Building+Development+Center+Srinagar+(BDC)+under+Housing+and+Urban+Development+Board+of+J%26K/@34.0845119,56.3186646,5z/data=!4m22!1m15!4m14!1m6!1m2!1s0x375a5971ee85ce6d:0x1bea5720d41fafd8!2s3rd+Floor,+Guwahati+Metropolitan+Development+Authority,+STATFED+Building,+GMC+Hospital+Road,+Bhangagarh,+Guwahati,+Assam!2m2!1d91.7677045!2d26.1616686!1m6!1m2!1s0x38e19b57c986d965:0x2634574d73fbf032!2sBuilding+Development+Center+Srinagar+(BDC)+under+Housing+and+Urban+Development+Board+of+J%26K,+3QMF%2BJQM,+Bemina,+Srinagar,+Jammu+and+Kashmir+190018!2m2!1d74.7743923!2d34.0840801!3m5!1s0x38e19b57c986d965:0x2634574d73fbf032!8m2!3d34.0840838!4d74.7744181!16s%2Fg%2F11n6h0547h?entry=ttu&g_ep=EgoyMDI2MDEwNC4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D",
+        "validity": "1"
+      },
+      "WS": {
+        "payViaWhatsApp": "https://api.whatsapp.com/send?phone=918744060444&text=mSeva",
+        "helpline": {
+          "contactOne": "0191-2470050",
+          "contactTwo": "0191-2470051"
+        },
+        "serviceCenter": "Housing and Urban Development Department, Jammu & Kashmir.",
+        "viewMapLocation": "https://www.google.com/maps/place/Building+Development+Center+Srinagar+(BDC)+under+Housing+and+Urban+Development+Board+of+J%26K/@34.0845119,56.3186646,5z/data=!4m22!1m15!4m14!1m6!1m2!1s0x375a5971ee85ce6d:0x1bea5720d41fafd8!2s3rd+Floor,+Guwahati+Metropolitan+Development+Authority,+STATFED+Building,+GMC+Hospital+Road,+Bhangagarh,+Guwahati,+Assam!2m2!1d91.7677045!2d26.1616686!1m6!1m2!1s0x38e19b57c986d965:0x2634574d73fbf032!2sBuilding+Development+Center+Srinagar+(BDC)+under+Housing+and+Urban+Development+Board+of+J%26K,+3QMF%2BJQM,+Bemina,+Srinagar,+Jammu+and+Kashmir+190018!2m2!1d74.7743923!2d34.0840801!3m5!1s0x38e19b57c986d965:0x2634574d73fbf032!8m2!3d34.0840838!4d74.7744181!16s%2Fg%2F11n6h0547h?entry=ttu&g_ep=EgoyMDI2MDEwNC4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D",
+        "staticDataOne": "30",
+        "staticDataTwo": "25-30"
+      }
+    }
+  ]
+}

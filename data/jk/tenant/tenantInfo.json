@@ -1,0 +1,26 @@
+{
+  "tenantId": "jk",
+  "moduleName": "tenant",
+  "tenantInfo": [
+    {
+      "code": "jk.jmc",
+      "districtCode": "jmc",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": ["PN", "HN", "EN"]
+    },
+    {
+      "code": "jk.smc",
+      "districtCode": "smc",
+      "population": "116449",
+      "malePopulation": "62554",
+      "femalePopultion": "53895",
+      "workingPopulation": "35.01",
+      "literacyRate": "69.46",
+      "languagesSpoken": ["PN", "GR", "HN"]
+    }
+  ]
+}

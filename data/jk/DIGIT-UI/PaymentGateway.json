@@ -1,0 +1,14 @@
+{
+    "tenantId": "jk",
+    "moduleName": "DIGIT-UI",
+    "PaymentGateway": [
+        {
+            "gateway": "PAYGOV",
+            "active": true
+        },
+        {
+            "gateway": "NTTDATA",
+            "active": true
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "tenantId": "jk",
+    "moduleName": "Chatbot",
+    "CityNames": [
+        {
+            "locale": "en",
+            "cities": [
+                "Jammu Municipal Corporation",
+                "Srinagar Municipal Corporation"
+            ]
+        },
+        {
+            "locale": "hi",
+            "cities": [
+                "शहर अ",
+                "शहर ब"
+            ]
+        }
+    ]
+}
