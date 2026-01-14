@@ -10,21 +10,11 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.smc"
         }
-
       ]
     },
     {
@@ -35,21 +25,11 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
+          "code": "pg.smc"
+        }      ]
     },
     {
       "module": "QuickPayLinks",
@@ -58,13 +38,10 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
+          "code": "pg.smc"
         }
       ]
     },
@@ -75,21 +52,11 @@
       "order":4,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
+          "code": "pg.smc"
+        }      ]
     },
     {
       "module": "TL",
@@ -99,21 +66,11 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
+          "code": "pg.smc"
+        }      ]
     },
     {
       "module": "FireNoc",
@@ -122,21 +79,11 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
+          "code": "pg.smc"
+        }      ]
     },
     {
       "module": "UC",
@@ -145,21 +92,11 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
+          "code": "pg.smc"
+        }      ]
     },
     {
       "module": "BPAREG",
@@ -169,21 +106,11 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
+          "code": "pg.smc"
+        }      ]
     },
     {
       "module": "BPAAPPLY",
@@ -193,21 +120,11 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
+          "code": "pg.smc"
+        }      ]
     },
     {
       "module": "PGR.WHATSAPP",
@@ -216,7 +133,7 @@
       "order":4,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         }
       ]
     },
@@ -228,21 +145,11 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
+          "code": "pg.smc"
+        }      ]
     },
     {
       "module": "FSM",
@@ -252,21 +159,11 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
+          "code": "pg.smc"
+        }      ]
     },
     {
       "module": "Payment",
@@ -275,21 +172,11 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
+          "code": "pg.smc"
+        }      ]
     },
     {
       "module": "Receipts",
@@ -298,21 +185,11 @@
       "order":3,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
+          "code": "pg.smc"
+        }      ]
     },
     {
       "module": "NOC",
@@ -321,21 +198,11 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
+          "code": "pg.smc"
+        }      ]
     },
     {
       "module": "DSS",
@@ -344,21 +211,11 @@
       "order":6,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
+          "code": "pg.smc"
+        }      ]
     },
     {
       "module": "Engagement",
@@ -367,21 +224,11 @@
       "order":3,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
+          "code": "pg.smc"
+        }      ]
     },
     {
       "module": "MCollect",
@@ -390,21 +237,11 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
+          "code": "pg.smc"
+        }      ]
     },
     {
       "module": "HRMS",
@@ -413,28 +250,10 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        },
-        {
-          "code": "pg.mohali"
-        },
-        {
-          "code": "pg.dharamshala"
-        },
-        {
-          "code": "pg.shimla"
+          "code": "pg.smc"
         }
       ]
     },
@@ -445,21 +264,11 @@
       "order":3,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
+          "code": "pg.smc"
+        }      ]
     },
     {
       "module": "NDSS",
@@ -468,21 +277,11 @@
       "order":5,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
+          "code": "pg.smc"
+        }      ]
     },
     {
       "module": "WS",
@@ -492,13 +291,10 @@
       "order": 1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
+          "code": "pg.smc"
         }
       ]
     },
@@ -509,13 +305,10 @@
       "order": 1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
+          "code": "pg.smc"
         }
       ]
     },
@@ -526,13 +319,10 @@
       "order": 1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
+          "code": "pg.smc"
         }
       ]
     },
@@ -544,13 +334,10 @@
       "order": 3,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
+          "code": "pg.smc"
         }
       ]
     },
@@ -562,21 +349,11 @@
       "order": 1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
+          "code": "pg.smc"
+        }      ]
     },
     {
       "module": "Death",
@@ -586,21 +363,11 @@
       "order": 1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
+          "code": "pg.smc"
+        }      ]
     },
     {
       "module": "PTR",
@@ -610,21 +377,11 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
+          "code": "pg.smc"
+        }      ]
     },
     {
       "module": "ASSET",
@@ -634,13 +391,10 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
+          "code": "pg.smc"
         },
         {
           "code": "pg.cityd"
@@ -667,13 +421,10 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
+          "code": "pg.smc"
         },
         {
           "code": "pg.cityd"
@@ -700,21 +451,11 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
+          "code": "pg.smc"
+        }      ]
     },
     {
       "module": "VERIFICATIONSEARCH",
@@ -724,13 +465,10 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
+          "code": "pg.smc"
         },
         {
           "code": "pg.cityd"
@@ -744,21 +482,11 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
+          "code": "pg.smc"
+        }      ]
     },
     {
       "module": "SV",
@@ -767,21 +495,11 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
+          "code": "pg.smc"
+        }      ]
     },
     {
       "module": "ADS",
@@ -790,13 +508,10 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
+          "code": "pg.smc"
         },
         {
           "code": "pg.cityd"
@@ -822,13 +537,10 @@
       "order": 13,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
+          "code": "pg.smc"
         },
         {
           "code": "pg.cityd"
@@ -854,21 +566,11 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
+          "code": "pg.smc"
+        }      ]
     },
     {
       "module": "Tqm",
@@ -878,21 +580,11 @@
       "additionalComponent": "TqmAdminNotification",
       "tenants":  [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
+          "code": "pg.smc"
+        }      ]
     } ,
      {
       "module": "WT",
@@ -901,13 +593,10 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
+          "code": "pg.smc"
         },
         {
           "code": "pg.cityd"
@@ -933,10 +622,10 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.smc"
         },
         {
           "code": "pg.mohali"
@@ -956,13 +645,10 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
+          "code": "pg.smc"
         },
         {
           "code": "pg.cityd"
@@ -988,13 +674,10 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
+          "code": "pg.smc"
         },
         {
           "code": "pg.cityd"
@@ -1020,13 +703,10 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jmc"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
+          "code": "pg.smc"
         },
         {
           "code": "pg.cityd"

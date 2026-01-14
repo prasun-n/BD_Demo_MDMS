@@ -3,54 +3,25 @@
     "moduleName": "Chatbot",
     "CityLocaleMasterData": [
         {
-            "cityName": "City A",
+            "cityName": "Jammu Municipal Corporation",
             "locale": "in_en",
-            "tenantId": "pg.citya"
+            "tenantId": "pg.jmc"
         },
         {
             "cityName": "शहर अ",
             "locale": "in_hi",
-            "tenantId": "pg.citya"
+            "tenantId": "pg.jmc"
         },
         {
-            "cityName": "City B",
+            "cityName": "Srinagar Municipal Corporation",
             "locale": "in_en",
-            "tenantId": "pg.cityb"
+            "tenantId": "pg.smc"
         },
         {
             "cityName": "शहर ब",
             "locale": "in_hi",
-            "tenantId": "pg.cityb"
-        },
-        {
-            "cityName": "City C",
-            "locale": "in_en",
-            "tenantId": "pg.cityc"
-        },
-        {
-            "cityName": "शहर स",
-            "locale": "in_hi",
-            "tenantId": "pg.cityc"
-        },
-        {
-            "cityName": "City D",
-            "locale": "in_en",
-            "tenantId": "pg.cityd"
-        },
-        {
-            "cityName": "शहर डी",
-            "locale": "in_hi",
-            "tenantId": "pg.cityd"
-        },
-        {
-            "cityName": "City E",
-            "locale": "in_en",
-            "tenantId": "pg.citye"
-        },
-        {
-            "cityName": "शहर ई",
-            "locale": "in_hi",
-            "tenantId": "pg.citye"
+            "tenantId": "pg.smc"
         }
+    
     ]
 }
