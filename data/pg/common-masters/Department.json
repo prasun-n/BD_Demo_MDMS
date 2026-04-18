@@ -68,7 +68,7 @@
       "active": true
     },
     {
-      "name": "Civil",
+      "name": "Food & Civil Supplies",
       "code": "DEPT_14",
       "active": true
     },
@@ -78,7 +78,7 @@
       "active": true
     },
     {
-      "name": "Health Branch",
+      "name": " Health & Family Welfare",
       "code": "DEPT_16",
       "active": true
     },
@@ -205,6 +205,31 @@
     {
       "name": "Agriculture Department",
       "code": "DEPT_60",
+      "active": true
+    },
+    {
+      "name": "Education Department",
+      "code": "DEPT_61",
+      "active": true
+    },
+    {
+      "name": "Urban Development Department",
+      "code": "DEPT_62",
+      "active": true
+    },
+    {
+      "name": "Energy Department",
+      "code": "DEPT_63",
+      "active": true
+    },
+    {
+      "name": "Home Department",
+      "code": "DEPT_64",
+      "active": true
+    },
+    {
+      "name": "Social Justice",
+      "code": "DEPT_65",
       "active": true
     }
   ]
