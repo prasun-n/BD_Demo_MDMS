@@ -831,6 +831,26 @@
       "code": "PQM_CRONJOB_SCHEDULER",
       "name": "PQM CRONJOB SCHEDULER",
       "description": "Pqm Cronjob Scheduler"
+    },
+    {
+      "code": "PGR_L1",
+      "name": "PGR Level 1 officer",
+      "description": "PGR Level 1 officer"
+    },
+    {
+      "code": "PGR_L2",
+      "name": "PGR Level 2 officer",
+      "description": "PGR Level 2 officer"
+    },
+    {
+      "code": "PGR_L3",
+      "name": "PGR Level 3 officer",
+      "description": "PGR Level 3 officer"
+    },
+    {
+      "code": "PGR_L4",
+      "name": "PGR Level 4 officer",
+      "description": "PGR Level 4 officer"
     }
   ]
 }
