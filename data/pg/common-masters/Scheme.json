@@ -1,0 +1,181 @@
+{
+    "tenantId": "pg",
+    "moduleName": "common-masters",
+    "Scheme": [
+        {
+            "code": "SCHEME1",
+            "name": "Mukhyamantri Kisan Sahay Yojana",
+            "category": "AGRICULTURE",
+            "department": "Agriculture Department",
+            "level": "STATE",
+            "description": "Financial assistance to farmers for crop loss due to natural calamities",
+            "benefits": [{
+                    "type": "CASH",
+                    "description": "Compensation based on crop damage"
+                }
+            ],
+            "eligibility": {
+                "incomeCriteria": null,
+                "gender": null,
+                "ageRange": {
+                    "min": 18,
+                    "max": 70
+                },
+                "targetGroup": ["Farmers"]
+            },
+            "applicationProcess": "ONLINE",
+            "documentsRequired": ["Aadhaar", "Land Records"],
+            "active": true
+        },
+        {
+            "code": "SCHEME2",
+            "name": "Maa Vatsalya Yojana",
+            "category": "HEALTH",
+            "department": "Health Department",
+            "level": "STATE",
+            "description": "Cashless healthcare scheme for low-income families",
+            "benefits": [{
+                    "type": "INSURANCE",
+                    "description": "Free medical treatment and surgeries"
+                }
+            ],
+            "eligibility": {
+                "incomeCriteria": "BPL",
+                "gender": null,
+                "ageRange": {
+                    "min": 0,
+                    "max": 100
+                },
+                "targetGroup": ["Families"]
+            },
+            "applicationProcess": "ONLINE",
+            "documentsRequired": ["Aadhaar", "Income Certificate"],
+            "active": true
+        },
+        {
+            "code": "SCHEME3",
+            "name": "Namo Lakshmi Yojana",
+            "category": "EDUCATION",
+            "department": "Education Department",
+            "level": "STATE",
+            "description": "Financial assistance to girl students from class 9 to 12",
+            "benefits": [{
+                    "type": "CASH",
+                    "description": "Up to ₹50,000 support for education"
+                }
+            ],
+            "eligibility": {
+                "incomeCriteria": null,
+                "gender": "Female",
+                "ageRange": {
+                    "min": 14,
+                    "max": 18
+                },
+                "targetGroup": ["Students"]
+            },
+            "applicationProcess": "ONLINE",
+            "documentsRequired": ["Aadhaar", "School Certificate"],
+            "active": true
+        },
+        {
+            "code": "SCHEME4",
+            "name": "Mukhyamantri Mahila Utkarsh Yojana",
+            "category": "EMPLOYMENT",
+            "department": "Women and Child Development",
+            "level": "STATE",
+            "description": "Interest-free loans to women SHGs",
+            "benefits": [{
+                    "type": "SUBSIDY",
+                    "description": "Loan up to ₹1 lakh without interest"
+                }
+            ],
+            "eligibility": {
+                "incomeCriteria": null,
+                "gender": "Female",
+                "ageRange": {
+                    "min": 18,
+                    "max": 60
+                },
+                "targetGroup": ["Women", "SHGs"]
+            },
+            "applicationProcess": "OFFLINE",
+            "documentsRequired": ["Aadhaar", "SHG Membership"],
+            "active": true
+        },
+        {
+            "code": "SCHEME5",
+            "name": "Ganga Swarupa Yojana",
+            "category": "SOCIAL_WELFARE",
+            "department": "Social Justice Department",
+            "level": "STATE",
+            "description": "Monthly pension scheme for widows",
+            "benefits": [{
+                    "type": "CASH",
+                    "description": "Monthly pension support"
+                }
+            ],
+            "eligibility": {
+                "incomeCriteria": "BPL",
+                "gender": "Female",
+                "ageRange": {
+                    "min": 18,
+                    "max": 100
+                },
+                "targetGroup": ["Widows"]
+            },
+            "applicationProcess": "ONLINE",
+            "documentsRequired": ["Aadhaar", "Death Certificate"],
+            "active": true
+        },
+        {
+            "code": "SCHEME6",
+            "name": "Jyotigram Yojana",
+            "category": "INFRASTRUCTURE",
+            "department": "Energy Department",
+            "level": "STATE",
+            "description": "24x7 electricity supply to rural areas",
+            "benefits": [{
+                    "type": "SERVICE",
+                    "description": "Continuous power supply"
+                }
+            ],
+            "eligibility": {
+                "incomeCriteria": null,
+                "gender": null,
+                "ageRange": {
+                    "min": 0,
+                    "max": 100
+                },
+                "targetGroup": ["Rural Households", "Farmers"]
+            },
+            "applicationProcess": "NA",
+            "documentsRequired": [],
+            "active": true
+        },
+        {
+            "code": "SCHEME7",
+            "name": "Mission Mangalam",
+            "category": "EMPLOYMENT",
+            "department": "Rural Development",
+            "level": "STATE",
+            "description": "Livelihood promotion through SHGs",
+            "benefits": [{
+                    "type": "SUBSIDY",
+                    "description": "Financial assistance and training"
+                }
+            ],
+            "eligibility": {
+                "incomeCriteria": "BPL",
+                "gender": null,
+                "ageRange": {
+                    "min": 18,
+                    "max": 60
+                },
+                "targetGroup": ["Rural Poor", "SHGs"]
+            },
+            "applicationProcess": "OFFLINE",
+            "documentsRequired": ["Aadhaar"],
+            "active": true
+        }
+    ]
+}
