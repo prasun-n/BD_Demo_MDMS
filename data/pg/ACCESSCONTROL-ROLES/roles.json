@@ -851,6 +851,26 @@
       "code": "PGR_L4",
       "name": "PGR Level 4 officer",
       "description": "PGR Level 4 officer"
+    },
+    {
+      "code": "INS-DIRECTOR",
+      "name": "Inspection Director",
+      "description": "Inspection Director"
+    },
+    {
+      "code": "INS-INSPECTOR",
+      "name": "Inspection Inspector",
+      "description": "Inspection Inspector"
+    },
+    {
+      "code": "INS-SUPERVISOR",
+      "name": "Inspection Supervisor",
+      "description": "Inspection Supervisor"
+    },
+    {
+      "code": "BUS-OWNER",
+      "name": "Business Owner",
+      "description": "Business Owner"
     }
   ]
 }
