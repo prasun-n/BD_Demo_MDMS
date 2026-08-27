@@ -893,6 +893,30 @@
           "code": "pg.citye"
         }
       ]
+    },
+    {
+      "module": "INSPECTION",
+      "code": "INSPECTION",
+      "active": true,
+      "order":15,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+
+      ]
     } 
   ]
 }
