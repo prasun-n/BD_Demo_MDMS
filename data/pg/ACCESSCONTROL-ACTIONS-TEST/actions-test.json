@@ -20287,7 +20287,7 @@
       {
           "id": 2985,
           "name": "Create Inspection",
-          "url": "/rainmaker-inspection/inspection/v1/_create",
+          "url": "/inspection-services/v1/_create",
           "parentModule": "",
           "displayName": "Create Inspection",
           "orderNumber": 0,
@@ -20299,7 +20299,7 @@
     {
           "id": 2986,
           "name": "Update Inspection",
-          "url": "/rainmaker-inspection/inspection/v1/_update",
+          "url": "/inspection-services/v1/_update",
           "parentModule": "",
           "displayName": "Update Inspection",
           "orderNumber": 0,
@@ -20311,7 +20311,7 @@
     {
           "id": 2987,
           "name": "Search Inspection",
-          "url": "/rainmaker-inspection/inspection/v1/_search",
+          "url": "/inspection-services/v1/_search",
           "parentModule": "",
           "displayName": "Search Inspection",
           "orderNumber": 0,
@@ -20323,7 +20323,7 @@
     {
           "id": 2988,
           "name": "Count Inspection",
-          "url": "/rainmaker-inspection/inspection/v1/_count",
+          "url": "/inspection-services/v1/_count",
           "parentModule": "",
           "displayName": "Count Inspection",
           "orderNumber": 0,
