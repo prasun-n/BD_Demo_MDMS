@@ -785,6 +785,10 @@
         {
             "format": "WQT/[fy:yyyy-yy]/[eg_wq_application_id_seq]",
             "idname": "waterquality.test.application.id"
+        },
+        {
+            "format": "INSP-[cy:yyyy-MM-dd]-[SEQ_INSPECTION_ID]",
+            "idname": "inspection.inspectionId"
         }
     ]
 }
